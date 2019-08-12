@@ -1,0 +1,24 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+p{
+    font-size: 14;
+    line-height: 32px;
+}
+
+input{
+    height: 40px;
+    border-style: solid 1px;
+    border-radius: 2px;
+}
+
+button{
+    background-color: #1da0d4;
+    border-radius: 5px;
+    border-style: none;
+    height: 45px;
+    padding: 5px;
+    min-width: 100px;
+    color: #FFFFFF;
+}
